@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "9mfNnHF0E2HG6E2QD5Ax9i8Myd4E83HMtUCsK9cp1SO7b4KGJ+z7RGwassoFZiX75cVBvaQYx93mjGP1Vp1MCA==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos C#\\check-station\\check-station\\check-station.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rickb\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\rickb\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\rickb\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\rickb\\.nuget\\packages\\sharpadbclient\\2.3.23\\sharpadbclient.2.3.23.nupkg.sha512",
+    "C:\\Users\\rickb\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\rickb\\.nuget\\packages\\system.drawing.common\\4.5.0\\system.drawing.common.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
